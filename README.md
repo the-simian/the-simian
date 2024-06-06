@@ -1,16 +1,26 @@
-## Hi there 👋
+<br/>
 
-<!--
-**the-simian/the-simian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/the-simian">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,bash,linux,git&theme=dark" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/the-simian">
+    <picture>
+      <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=the-simian&layout=compact&langs_count=6&theme=dark">
+	    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-simian&layout=compact&langs_count=6&theme=default"/>
+    </picture>
+  </a>
+  <a href="https://github.com/the-simian">
+    <picture>
+      <source height="180em" media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=the-simian&theme=dark">
+      <img height="180em" src="https://streak-stats.demolab.com/?user=the-simian&theme=default"/>
+    </picture>
+  </a>
+</div>
+
+<br/>
