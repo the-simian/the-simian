@@ -15,9 +15,7 @@
 	    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-simian&layout=compact&langs_count=6&theme=default"/>
     </picture>
   </a>
-  <a href="https://git.io/streak-stats">
-     <img src="https://streak-stats.demolab.com?user=the-simian&theme=radical" alt="GitHub Streak" height="190em"/>
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=the-simian&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
